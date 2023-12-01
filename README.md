@@ -21,7 +21,7 @@ flutter pub get
 ## Usage
 ```dart
 import 'package:flutter/material.dart';
-import 'spannableStringParser.dart';
+import 'package:flutter_spannable_string/flutter_spannable_string.dart';
 
 void main() {
   runApp(
