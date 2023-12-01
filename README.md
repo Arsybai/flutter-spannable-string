@@ -1,5 +1,5 @@
 # Flutter Spannable String
-A Flutter package for parsing and displaying spannable strings with various styling options, including text color, background color, text size, text decoration (underline, strikethrough), font style (italic), font weight (bold), and clickable URLs.
+A Flutter package for parsing and displaying spannable strings with various styling options, including text color, background color, text size, text decoration (underline, strikethrough), font style (italic) and font weight (bold).
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/arsybai/flutter-spannable-string)
 
